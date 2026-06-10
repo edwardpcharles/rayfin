@@ -1,0 +1,5 @@
+EVALUATE
+SUMMARIZECOLUMNS(
+    'Fact Table'[status],
+    "Total Sales", [April Sales]
+)

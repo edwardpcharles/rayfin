@@ -1,0 +1,3 @@
+npm create @microsoft/rayfin@latest
+npx -y @microsoft/fabric-app-data-cli generate -o fabric.generated.ts
+npx rayfin up   
